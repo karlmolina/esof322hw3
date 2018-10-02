@@ -80,4 +80,17 @@
     <panel_attributes/>
     <additional_attributes>210.0;10.0;10.0;60.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>510</x>
+      <y>250</y>
+      <w>160</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Exercise 3
+Use case diagram of
+making a phone call</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

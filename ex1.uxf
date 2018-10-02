@@ -158,4 +158,18 @@ Invalid Payment (A)</panel_attributes>
 m2=Currency Holding Limits (E)\n-Nickels: maxN\n-Dimes: maxD\n-Quarters: maxQ\n-Dollar Bills: maxB</panel_attributes>
     <additional_attributes>10.0;10.0;30.0;290.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>610</x>
+      <y>280</y>
+      <w>160</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Exercise 1
+Flow Diagram of
+using a ticket machine
+at a train station</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>
